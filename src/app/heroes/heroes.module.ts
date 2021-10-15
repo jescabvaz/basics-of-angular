@@ -12,7 +12,6 @@ import { ListadoComponent } from './listado/listado.component';
     exports:[
         ListadoComponent
     ],
-    //
     imports:[
         CommonModule
     ]
